@@ -1,6 +1,7 @@
 # FootballGame_Py
 
 ⭐ Made by Zachary Bernas, UVAGE Library from Luther Tychonievich
+
 The premise of the game is to progress through increasingly more difficult levels trying to score a touchdown
 as a UVA football quarterback. The user plays as a quarterback that passes a ball to a receiver that strafes left and
 right. There will be defenders/enemies that players avoid in order to score a touchdown and progress to more levels.
