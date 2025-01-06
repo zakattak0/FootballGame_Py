@@ -9,3 +9,8 @@ The premise of the game is to progress through increasingly more difficult level
 😵 Game over: Once a player runs out of health the game will be over.
 
 🖼️ Graphics/Images: The start screen has pictures of UVA football players, and when the game actually starts, there are multiple hand-drawn images of pixel art players and defenders. There is also a football field as a game background.
+
+
+How to run:
+
+Just run "footballgame.py" in any IDE of your choosing to access the game!
