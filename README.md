@@ -13,4 +13,4 @@ The premise of the game is to progress through increasingly more difficult level
 
 How to run:
 
-Just run "footballgame.py" in any IDE of your choosing to access the game!
+First ensure that you have the latest version of python and pygame downloaded. Then, just run "footballgame.py" in any IDE of your choosing to access the game!
